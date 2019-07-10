@@ -10,4 +10,6 @@ Prerequesties:
 
 ```shell
 pip instal bibtexparser
+pip install dblp
+pip install fuzzywuzzy
 ```
